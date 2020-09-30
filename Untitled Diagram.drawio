@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T17:16:14.823Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="C2WfkPagQ0vvWRJoiToB" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T17:19:32.471Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="aWvwxrLfrzHEeC7dV61K" version="13.7.5" type="github">
   <diagram id="7yfuaPFkPIxmF3ERDpuB" name="Page-1">
     <mxGraphModel dx="766" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,14 +55,14 @@
         <mxCell id="BsANQgFrOGwPwV-zjlsd-9" value="Vincula Cliente ao projeto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BsANQgFrOGwPwV-zjlsd-10" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BsANQgFrOGwPwV-zjlsd-9" target="nLzH2ek33vE7qJnSyAT2-6">
+        <mxCell id="BsANQgFrOGwPwV-zjlsd-10" value="" style="endArrow=classic;html=1;exitX=0.992;exitY=0.413;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.05;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nLzH2ek33vE7qJnSyAT2-6" target="BsANQgFrOGwPwV-zjlsd-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="580" as="sourcePoint" />
-            <mxPoint x="336" y="580" as="targetPoint" />
+            <mxPoint x="620" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BsANQgFrOGwPwV-zjlsd-11" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-35;" vertex="1" parent="1">
-          <mxGeometry x="500" y="530" width="40" height="20" as="geometry" />
+        <mxCell id="BsANQgFrOGwPwV-zjlsd-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
