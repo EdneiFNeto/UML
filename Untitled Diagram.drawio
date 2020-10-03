@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T15:08:20.985Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="l29BanZUbLL3Uy8p7YTZ" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T15:09:40.863Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="iTg6aTJsHrUmm92-ck6O" version="13.7.7" type="github">
   <diagram id="7yfuaPFkPIxmF3ERDpuB" name="Page-1">
     <mxGraphModel dx="948" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,8 +470,8 @@
         <mxCell id="Xcf428lPId8a72EhN4wo-97" value="Fecha o contrato" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="1765" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xcf428lPId8a72EhN4wo-99" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1630" width="100" height="40" as="geometry" />
+        <mxCell id="Xcf428lPId8a72EhN4wo-99" value="Diagrama de Estados" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1680" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
