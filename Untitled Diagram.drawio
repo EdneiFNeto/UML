@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T15:13:43.064Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="QK-TilyeXfIxwMZHjnze" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T15:18:38.815Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="oGNWOcIPkYTHHdAVqa8g" version="13.7.7" type="github">
   <diagram id="7yfuaPFkPIxmF3ERDpuB" name="Page-1">
     <mxGraphModel dx="1044" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,9 +98,6 @@
         </mxCell>
         <mxCell id="8guNKXexJQ4U-WP37phq-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;strokeColor=#000;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="120" y="905" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8guNKXexJQ4U-WP37phq-2" value="&lt;p align=&quot;justify&quot; style=&quot;margin-bottom: 0cm ; direction: ltr ; line-height: 1px ; text-align: left ; background: transparent&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Fecha a contratação do projeto&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="840" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8guNKXexJQ4U-WP37phq-3" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8guNKXexJQ4U-WP37phq-1" target="8guNKXexJQ4U-WP37phq-5" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -468,11 +465,14 @@
         <mxCell id="Xcf428lPId8a72EhN4wo-97" value="Fecha o contrato" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600.59" y="1795" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xcf428lPId8a72EhN4wo-99" value="Diagrama de Estados" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370.00000000000006" y="1734" width="100" height="40" as="geometry" />
+        <mxCell id="Xcf428lPId8a72EhN4wo-99" value="Diagrama de Estados - Fecha contrato de projeto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380.00000000000006" y="1720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xcf428lPId8a72EhN4wo-102" value="Diagrama de Classe" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="162.50000000000003" y="1220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xcf428lPId8a72EhN4wo-104" value="Diagrama de Atividade - Fecha contrato de projeto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="830" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
