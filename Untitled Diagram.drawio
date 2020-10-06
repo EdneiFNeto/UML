@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T19:37:53.035Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="Dx5Cxzj8tBJTgk2tWIUN" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T19:38:26.133Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="63bQZtt5WdQtrxQgWg8f" version="13.7.7" type="github">
   <diagram id="7yfuaPFkPIxmF3ERDpuB" name="Page-1">
-    <mxGraphModel dx="766" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
           <mxGeometry y="190" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zmke27qp80-n7V2kaBV9-21" value="cuidador" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="-960" width="160" height="242" as="geometry" />
+          <mxGeometry x="238.75" y="-990" width="160" height="242" as="geometry" />
         </mxCell>
         <mxCell id="Zmke27qp80-n7V2kaBV9-22" value="+ id: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zmke27qp80-n7V2kaBV9-21">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -244,7 +244,7 @@
           <mxGeometry y="112" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zmke27qp80-n7V2kaBV9-9" value="paciente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="221.25" y="-720" width="160" height="190" as="geometry" />
+          <mxGeometry x="180" y="-707" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Zmke27qp80-n7V2kaBV9-10" value="+ id: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zmke27qp80-n7V2kaBV9-9">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -647,7 +647,7 @@
           <mxGeometry x="667.5" y="1440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zmke27qp80-n7V2kaBV9-5" value="Diagrama cuidador" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="76.25" y="-1010" width="100" height="40" as="geometry" />
+          <mxGeometry x="629.34" y="-990" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zmke27qp80-n7V2kaBV9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zmke27qp80-n7V2kaBV9-41" target="Zmke27qp80-n7V2kaBV9-28">
           <mxGeometry relative="1" as="geometry" />
