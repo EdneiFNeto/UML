@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T02:31:20.414Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="lMIvE1I0qQ0C4mby30Lk" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T02:38:24.417Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="byAn0fRTGBHGzk3bEOpa" version="13.10.0" type="github">
   <diagram id="7yfuaPFkPIxmF3ERDpuB" name="Page-1">
     <mxGraphModel dx="1489" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1073,25 +1073,76 @@
           <mxGeometry x="-670" y="4650" width="490" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ryC6GTgPT8DA20vFl6zB-4" value="&lt;&lt;document&gt;&gt;&#xa;cor.hlp" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="4740" width="120" height="50" as="geometry" />
+          <mxGeometry x="-640" y="4700" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryC6GTgPT8DA20vFl6zB-5" value="&lt;&lt;document&gt;&gt;&#xa;cor.ini" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="4830" width="120" height="50" as="geometry" />
+          <mxGeometry x="-700" y="4810" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryC6GTgPT8DA20vFl6zB-6" value="&lt;&lt;document&gt;&gt;&#xa;sde32.dll" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="4910" width="120" height="50" as="geometry" />
+          <mxGeometry x="-670" y="4930" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryC6GTgPT8DA20vFl6zB-7" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-483" y="4810" width="100" height="50" as="geometry" />
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-7" value="&lt;&lt;executable&gt;&gt;&#xa;wincor.exe&#xa;{versao=3.2}" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-483" y="4810" width="133" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryC6GTgPT8DA20vFl6zB-8" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-297.5" y="4730" width="100" height="50" as="geometry" />
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-8" value="&lt;&lt;library&gt;&gt;&#xa;pblib.dll" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="4700" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryC6GTgPT8DA20vFl6zB-9" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-9" value="&lt;&lt;table&gt;&gt;&#xa;entrada.db" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-292.37" y="4810" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryC6GTgPT8DA20vFl6zB-10" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-10" value="&lt;&lt;table&gt;&gt;&#xa;saida.db" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-297.5" y="4900" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-11" value="&lt;&lt;library&gt;&gt;&#xa;sdemdb.dll" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-467.87" y="4930" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-16" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=1.015;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.115;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-11" target="ryC6GTgPT8DA20vFl6zB-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-573" y="5040" as="sourcePoint" />
+            <mxPoint x="-413" y="5040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-17" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-7" target="ryC6GTgPT8DA20vFl6zB-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-439.0899999999999" y="4894.5" as="sourcePoint" />
+            <mxPoint x="-550.92" y="4870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-21" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.074;exitY=0.453;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-7" target="ryC6GTgPT8DA20vFl6zB-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-467.8749999999999" y="4810" as="sourcePoint" />
+            <mxPoint x="-574.625" y="4860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-22" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=10;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-7" target="ryC6GTgPT8DA20vFl6zB-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-449.8749999999999" y="4880" as="sourcePoint" />
+            <mxPoint x="-556.625" y="4930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-23" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0.06;entryY=0.137;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-7" target="ryC6GTgPT8DA20vFl6zB-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-462.9999999999999" y="4820" as="sourcePoint" />
+            <mxPoint x="-560" y="4775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-24" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-7" target="ryC6GTgPT8DA20vFl6zB-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-373.2499999999998" y="4820" as="sourcePoint" />
+            <mxPoint x="-281.5" y="4746.849999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-25" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.118;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-7" target="ryC6GTgPT8DA20vFl6zB-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-340" y="4845" as="sourcePoint" />
+            <mxPoint x="-282.3699999999999" y="4845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryC6GTgPT8DA20vFl6zB-26" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="1" source="ryC6GTgPT8DA20vFl6zB-7" target="ryC6GTgPT8DA20vFl6zB-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-340" y="4857.5" as="sourcePoint" />
+            <mxPoint x="-275.6999999999998" y="4918.499999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
